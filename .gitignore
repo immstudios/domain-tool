@@ -1,1 +1,3 @@
 config/*.ini
+certbot.log
+config/nbla.cloud
